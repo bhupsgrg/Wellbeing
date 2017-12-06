@@ -1,1 +1,3 @@
 # Wellbeing
+
+In the age of where critical decisions are made using data analytics, data gathering tools are very intergal part of the process. Educational institutions collect data from students to improve student’s experiences and the target of this project is to provide tools for these institutions to collect data. This project uses web-based technologies to provide tool for institutions to create surveys and visualise the data. An android app has been developed for students to answer the surveys. Some open source JavaScript libraries were used to add features and improve the user experience. 
